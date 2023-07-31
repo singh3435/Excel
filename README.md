@@ -9,6 +9,6 @@ below Confidence Interval exercise has been done by me which is to find an estim
 
 
 Here In this Example, we do Student T Distribution, We use when We don't know the variance of the sample dataset and when there is Smaller Sample Size
-In Student's T distribution the Formulae is similar to Normal Distribution Confidence Interval Instead we have here Degree of Freedom and we use Sample Standard Deviation
+In Student's T distribution the Formulae is similar to Normal Distribution Confidence Interval Instead we have here Degree of Freedom and we use Sample Standard Deviation.
 ![Student's-T-Distribution-Exercise](https://github.com/singh3435/Excel/assets/116824596/fbf805fc-b16e-4573-8287-c8961e83ee97)
 ![Student's-T-Distribution-T-table-exercise](https://github.com/singh3435/Excel/assets/116824596/722cd5ef-6f2d-4408-ba45-38718d89619f)
